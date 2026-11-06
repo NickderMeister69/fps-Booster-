@@ -1,0 +1,27 @@
+﻿FPS BOOSTER - Anleitung
+=======================
+
+STARTEN
+  Doppelklick auf "FPS Booster starten.bat"
+  -> Windows fragt nach Administratorrechten -> "Ja" klicken.
+
+BENUTZEN
+  1. Unter "Optimierungen" die Schalter an/aus stellen (grün = wird angewendet).
+  2. Auf "BOOST" klicken - fertig. Rechts an jeder Karte siehst du "AKTIV".
+  3. Bei Einträgen mit "(Neustart)" einmal den PC neu starten.
+
+WERKZEUGE
+  - Temp-Dateien löschen, RAM freigeben, DNS leeren
+  - Hintergrundprogramme schließen (Browser, OneDrive ...)
+  - Spiel auf hohe Priorität setzen (optional dauerhaft)
+  - Windows-Wiederherstellungspunkt erstellen
+
+RÜCKGÄNGIG MACHEN
+  "Alles zurücksetzen" stellt jeden geänderten Wert exakt wieder her.
+  Sicherung + Protokoll liegen in: %LOCALAPPDATA%\FPSBooster
+
+HINWEISE
+  - Beide Dateien (.bat und .ps1) müssen im selben Ordner liegen.
+  - Fragt Windows SmartScreen nach: "Weitere Informationen" -> "Trotzdem ausführen".
+  - Tipp für NVIDIA: In der NVIDIA-Systemsteuerung "Energieverwaltungsmodus"
+    auf "Maximale Leistung bevorzugen" und "Modus mit geringer Latenz" auf "Ein".
